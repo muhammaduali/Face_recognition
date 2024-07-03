@@ -39,10 +39,10 @@ python main.py
 
 ## 📺 Demo
 
-![demoimage](https://user-images.githubusercontent.com/87910771/150638214-207dbfea-1feb-4a71-8e55-56ba9dd04094.jpg)
+![demoimage](https://drive.google.com/file/d/1rI1tWiZtVZLEkBjnS6JVCBsKwAZK-esj/view?usp=drive_link)
 
 Image Only for Demonstration Purpose.
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[AnishLohiya](https://github.com/AnishLohiya)
+[Muhammadu Ali](https://github.com/muhammaduali)_
